@@ -4,7 +4,7 @@ RUN apt-get update && \
     apt-get install -y build-essential cmake \
     ffmpeg libsm6 libxext6
 
-RUN pip install poetry==1.1.0rc1
+RUN pip install poetry
 
 RUN mkdir /app
 
