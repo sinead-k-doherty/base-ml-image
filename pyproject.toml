@@ -8,7 +8,6 @@ authors = ["Sinead O'Doherty <sinead_k_doherty@hotmail.com>"]
 python = "^3.8"
 fastapi = "^0.63.0"
 numpy = "1.19.5"
-dlib = "^19.21.1"
 opencv-python = "^4.5.1"
 tensorflow = "^2.4.1"
 python-multipart = "^0.0.5"

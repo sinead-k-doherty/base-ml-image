@@ -6,7 +6,7 @@ RUN apt-get update && \
     libatlas-base-dev libgtk-3-dev \ 
     libboost-python-dev 
 
-RUN pip install poetry==1.1.0rc1
+RUN pip install poetry
 
 RUN mkdir /app
 
